@@ -1,0 +1,63 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Polymeric Materials"
+    ],
+    [
+      "Science",
+      "Physics"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Polymers"
+    ],
+    [
+      "Engineering",
+      "Nanotechnology"
+    ]
+  ],
+  "legacy_uid": "1607a33b-6a83-0b9a-3a06-7b0fa46af4bf",
+  "instructors": {
+    "content": [
+      "cff366c2-3d50-24c2-ccc8-eeab7241aa10"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "69e38b3d-f932-39bb-dc3a-91409bb2ecb6",
+    "website": "3-063-polymer-physics-spring-2007"
+  },
+  "course_title": "Polymer Physics",
+  "course_description": "This course presents the mechanical, optical, and transport properties of polymers with respect to the underlying physics and physical chemistry of polymers in melt, solution, and solid state. Topics include conformation and molecular dimensions of polymer chains in solutions, melts, blends, and block copolymers; an examination of the structure of glassy, crystalline, and rubbery elastic states of polymers; thermodynamics of polymer solutions, blends, crystallization; liquid crystallinity, microphase separation, and self-assembled organic-inorganic nanocomposites. Case studies include relationships between structure and function in technologically important polymeric systems.\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.063",
+  "course_image_thumbnail": {
+    "content": "86ebf5cf-60b7-0b84-38b5-b6e3303bf89e",
+    "website": "3-063-polymer-physics-spring-2007"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "ff3e66e2-ab38-41a3-b029-242400f74b4a",
+  "site_short_id": "3.063-spring-2007",
+  "site_url_path": "courses/3-063-polymer-physics-spring-2007",
+  "title": "Course Metadata"
+}
