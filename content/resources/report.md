@@ -4,6 +4,8 @@ description: Instructions and guidelines for the course essay assignment.
 file: /courses/3-063-polymer-physics-spring-2007/ad709df9c12e2bffbc280d99b2fcf758_report.pdf
 file_size: 16969
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
