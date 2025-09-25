@@ -5,6 +5,8 @@ description: 'Example of student work: "OLEDs: Modifiability and Applications," 
 file: /courses/3-063-polymer-physics-spring-2007/bd39f3fd710cc018fa50c3dd663fe253_modifiability.pdf
 file_size: 94868
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
